@@ -59,5 +59,15 @@ GROUP_REPOS = [
         "stack": [],
         "documentation": [],
         "sla": "",
+    },
+    {
+        "name": "Group Group",
+        "gitLinks": ["https://github.com/Gruppegruppe/SearchEngine"],
+        "backend": "",
+        "frontend": "",
+        "monitoring": "",
+        "stack": [],
+        "documentation": [],
+        "sla": "",
     }
 ]
