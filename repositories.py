@@ -18,7 +18,17 @@ GROUP_REPOS = [
         "stack": [],
         "documentation": [],
         "sla": "",
-    },
+    }, 
+    { 
+        "name": "WeKnowXD",
+        "gitLinks": ["https://github.com/WeKnowXD/WeKnowXD_Project"],
+        "backend": "",
+        "frontend": "",
+        "monitoring": "",
+        "stack": [],
+        "documentation": [],
+        "sla": "",
+    }, 
 
     {
     "name": "MaxiKnows",
@@ -39,5 +49,25 @@ GROUP_REPOS = [
     "stack": [],
     "documentation": [],
     "sla": "",
-}
+},
+    {
+        "name": "GenZM0nks",
+        "gitLinks": ["https://github.com/GenZM0nks/AscendingMonk"],
+        "backend": "",
+        "frontend": "",
+        "monitoring": "",
+        "stack": [],
+        "documentation": [],
+        "sla": "",
+    },
+    {
+        "name": "Group Group",
+        "gitLinks": ["https://github.com/Gruppegruppe/SearchEngine"],
+        "backend": "",
+        "frontend": "",
+        "monitoring": "",
+        "stack": [],
+        "documentation": [],
+        "sla": "",
+    }
 ]

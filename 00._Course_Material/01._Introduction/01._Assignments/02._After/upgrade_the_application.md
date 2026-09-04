@@ -22,6 +22,9 @@ The main branch is the same as what we copied from the server.
 
 The dependencies have been defined in `requirements.txt`. 
 
+> [!CAUTION]
+> The dependencies are pinned to very old version. Remove the versions in order to be able to run them.
+
 You wouldn't want to install the dependencies globaly. 
 
 If you run other Python projects they would conflict with the legacy dependencies of `whoknows`. 
@@ -57,6 +60,9 @@ You might need to define pip3 if you can't run pip.
 ## Converting from Python 2 -> 3.  
 
 There are multiple ways to achieve this. One is to install and use the `2to3` tool.
+
+> [!TIP]
+> Python has stopped including the `2to3` tool in the newest version. You need Python `3.12.0` or less. On Windows you can install old version of Python through the Windows Store.
 
 #### Installation
 

@@ -61,6 +61,16 @@ Install homebrew: https://brew.sh/
 
 ---
 
+## Must do before week 2
+
+#### Install Postman and create account
+
+https://www.postman.com/
+
+Create an account. We will be using features that require the non-lightweight version as they call it. You can use a throwaway email to signup. 
+
+---
+
 ## Must do before week 3
 
 You can do the following before the semester start or later on. Once the semester start there are many assignments of higher priority so consider postponing this section.
@@ -110,13 +120,6 @@ Successful criteria: Can run `az --version` in the terminal that you use. So if 
 ---
 
 ## Must do before week 4
-
-#### Install Postman and create account
-
-https://www.postman.com/
-
-Create an account. We will be using features that require the non-lightweight version as they call it. You can use a throwaway email to signup. 
-
 
 #### Install Node.js. 
 
